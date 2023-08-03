@@ -20,8 +20,3 @@ There will be two ```*.csv``` which will be created - ```dataset_parsec.csv``` a
 
 ```performance_prediction.ipynb``` is the file which has the python code. To test the code, open Jupyter Notebook in your console and run each block of code in the IPython Notebook file.
 
-## Developers
-
-Code developed by:
-1. Rachit Jain (rj2219)
-2. Abhinav Gupta (ag7948)
